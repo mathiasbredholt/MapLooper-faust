@@ -1,0 +1,9 @@
+[submodule "components/libmapper-esp"]
+	path = components/libmapper-esp
+	url = https://github.com/mathiasbredholt/libmapper-esp
+[submodule "components/MapLooper"]
+	path = components/MapLooper
+	url = https://github.com/mathiasbredholt/MapLooper
+[submodule "components/link-esp"]
+	path = components/link-esp
+	url = https://github.com/mathiasbredholt/link-esp
